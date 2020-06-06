@@ -1,0 +1,1 @@
+![image](https://github.com/d1m0n172/OpenVINO-/blob/master/photo1.png)
